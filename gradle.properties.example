@@ -1,0 +1,6 @@
+artifactory_user=USER
+artifactory_password=AKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8w
+artifactory_publish_url=https://artifactory.COMPANY.test/artifactory/REPO-local
+artifactory_dependencies_url=https://artifactory.COMPANY.test/artifactory/REPO
+artifactory_plugin_dependencies_url=https://artifactory.COMPANY.test/artifactory/gradle-plugin-remote
+org.gradle.daemon=false
